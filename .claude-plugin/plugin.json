@@ -1,0 +1,5 @@
+{
+  "name": "task-compact",
+  "version": "0.1.0",
+  "description": "Lets the main session compact between tasks: a compact tool the model calls at a task boundary, /compact with its instructions once the turn ends, then its next steps as a prompt so work resumes. Warns at 70% and 90% of the point where auto-compaction runs."
+}
